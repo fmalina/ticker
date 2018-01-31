@@ -1,0 +1,15 @@
+body{font-family:sans-serif;color:#333;font-size:smaller;padding:2em;}
+table{border-collapse:collapse;width:50%;float:left;width:500px;}
+thead{border-bottom:3px double #aaa}
+th{font-weight:normal}
+td,th{padding:.5em 1em}
+thead{background:green;color:white}
+tbody tr:nth-child(even){background:#f3f3f3}
+tr:hover td{color:#555}
+td{animation:fadein .2s}
+canvas{margin-left:2em}
+@keyframes fadein{
+	from{opacity:.5}
+	to{opacity:.8}
+}
+
