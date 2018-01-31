@@ -1,9 +1,6 @@
 Ticker (Front-End Technical Test)
 =================================
 
-Result: https://fmalina.github.io/ticker/
-These guys didn't hire me :~.
-
 Brief
 -----
 
