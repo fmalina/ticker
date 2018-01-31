@@ -1,8 +1,6 @@
 Ticker (Front-End Technical Test)
 =================================
 
-https://fmalina.github.io/ticker/
-
 Brief
 -----
 
